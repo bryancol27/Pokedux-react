@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+
+.App{
+  margin-top: 3rem;
+}
+
+.App img {
+  width: 300px;
+  margin-bottom: 20px;
+}
